@@ -11,6 +11,9 @@ body{
     display: flex;
     border: 3px solid;
 }
+.sebas:hover{
+    box-shadow: 5px 0px 25px black;
+}
 
 .button{
     height: 60px;
@@ -43,4 +46,8 @@ body{
 
 .button:active{
     background-color: hsl(39, 100%, 80%);;
+}
+
+.calc:hover{
+    box-shadow: 5px 0px 25px black;
 }
